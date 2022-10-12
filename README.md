@@ -25,3 +25,10 @@ tasks para continuar evoluindo:
 - [ ] tire duvidas 
 - [ ] done 
 
+progresso do curso:
+
+- [x] curso java (10/10/2022)
+- [ ] curso html (20/10/2022)
+- [ ] curso css  (30/10/2022)
+
+
