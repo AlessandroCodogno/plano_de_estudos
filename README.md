@@ -15,3 +15,13 @@ o item desse arquivo é apenas um teste para o site seguindo as dicas da profess
 -introdução a plataforma java [acesse o curso](https://www.youtube.com/watch?v=sTX0UEplF54&list=PLHz_AreHm4dkI2ZdjTwZA4mPMxWTfNSpR)
 
 -introdução ao java [acesse o curso](https://www.youtube.com/watch?v=mRryrODqQcw&list=PLJ0AcghBBWSi6nK2CUkw9ngvwWB1gE8mL)
+
+tasks para continuar evoluindo:
+
+[x] começar a estudar java
+[] assista o curso
+[] faça anotaçoes
+[] faça os projeto sozinhos
+[] tire duvidas 
+[] done 
+
