@@ -19,9 +19,9 @@ o item desse arquivo é apenas um teste para o site seguindo as dicas da profess
 tasks para continuar evoluindo:
 
 - [x] começar a estudar java
-- [] assista o curso
-- [] faça anotaçoes
-- [] faça os projeto sozinhos
-- [] tire duvidas 
-- [] done 
+- [ ] assista o curso
+- [ ] faça anotaçoes
+- [ ] faça os projeto sozinhos
+- [ ] tire duvidas 
+- [ ] done 
 
